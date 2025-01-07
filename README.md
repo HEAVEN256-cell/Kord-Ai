@@ -11,17 +11,6 @@
 </p>
 <p align='center'>
 </p>
-   
-<p align="center">
-
-  <a aria-label="𝕵𝖔𝖎𝖓 𝕺𝖚𝖗 𝕮𝖍𝖆𝖓𝖓𝖊𝖑" href="https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817" target="_blank">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
- 
-
----
-
-
  <p align="center"><img src="https://profile-counter.glitch.me/{KORD-AI}/count.svg" alt="M3264 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{M3264}/count.svg" /></p>
 
 
@@ -38,45 +27,41 @@
 
 1. Get `SESSION ID`
 - Web: [Click Here](https://session.kordai.us.kg)
-- Telegram Bot: [Click Here](https://t.me/kpair_bot)
 - Any one of the links above can be used
 
-2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/M3264/Kord-Ai/fork)***
-   
-4.  #### DEPLOY IN HEROKU 
+2.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
 
 --------
-5.  #### DEPLOY IN REPLIT
+3.  #### DEPLOY IN REPLIT
 
    <a href='https://repl.it/github/M3264/Kord-Ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
-6.  #### DEPLOY IN KOYEB
+4.  #### DEPLOY IN KOYEB
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 --------
-7.  #### DEPLOY IN GLITCH
+5.  #### DEPLOY IN GLITCH
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 --------
 
-8.  #### DEPLOY TO CODESPACE
-
+6.  #### DEPLOY TO CODESPACE
+  
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 --------
 
-9. #### DEPLOY TO RENDER
+7. #### DEPLOY TO RENDER
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-#### NOTE
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>#### NOTE
 - After deploying on render, copy the bot url at the top left side of the render dashboard. then sign up on [Betterstack](https://uptime.betterstack.com), click `Create Monitor`, paste the url you copied and create!.
 --------
-10. #### DEPLOY TO RAILWAY
+9. #### DEPLOY TO RAILWAY
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
@@ -87,7 +72,7 @@
 
 ---
 
-11. ## Deploy on VPS or PC
+10. ## Deploy on VPS or PC
 - You need to Install git,ffmpeg,curl,nodejs,yarn with pm2 
    1. Install git ffmpeg curl 
       ``` 
@@ -140,13 +125,6 @@
  
 <h2 align="center">  ❗❗ </h2>
 ---
-- *Note That Kord-Ai Is A Bot Made by M3264, Not Whatsapp, Beware of how you use it!
-
-
-#### Contact The Developer
-- Telegram:  https://t.me/M32669
-- Join the Whatsapp [Channel](https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817)
- 
 
 - Star ⭐ repo if you like this bot.
 --------
